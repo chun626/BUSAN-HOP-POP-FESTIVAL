@@ -133,7 +133,7 @@ body {
 }
 
 #wrap {
-    width: 1400px;
+    min-width: 1400px;
     margin: auto;
     overflow: hidden;
 }
@@ -578,3 +578,4 @@ footer{
 .sns_icon a:hover{
     filter: opacity(100%);
 }
+
